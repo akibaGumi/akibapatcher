@@ -1,5 +1,7 @@
 # 【RELEASE】Akiba Patcher v1 — CoolStar SOF Audio 1.0.5.0 Patcher
 
+<strong>English</strong> | [日本語](README.ja.md)
+
 Akiba Patcher v1 is a **patcher** for the CoolStar SOF Audio Driver version **1.0.5.0** that **bypass the license verification and hardware ID checks**. If you run this, the driver will load normal and amplifiers will turn on without error.
 
 ---

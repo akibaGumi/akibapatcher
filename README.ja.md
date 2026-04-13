@@ -1,5 +1,7 @@
 # 【リリース】Akiba Patcher v1 — CoolStar SOF Audio 1.0.5.0 パッチャー
 
+<strong>日本語</strong> | [English](README.md)
+
 Akiba Patcher v1は、CoolStar SOF オーディオドライバー（v**1.0.5.0**）向けの**パッチツール**です。鬱陶しい**ライセンス認証とハードウェアIDチェックをバイパス**します。これを実行すれば、普通にドライバーが読み込まれ、アンプがエラーなしで動くようになります。
 
 ---
